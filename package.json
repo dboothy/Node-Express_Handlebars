@@ -1,0 +1,30 @@
+{
+  "name": "Node-Express_Handlebars",
+  "version": "1.0.0",
+  "description": "a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM",
+  "main": "index.js",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "handlebars-helper-css": "^0.1.0",
+    "mysql": "^2.15.0",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dboothy/Node-Express_Handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dboothy/Node-Express_Handlebars/issues"
+  },
+  "homepage": "https://github.com/dboothy/Node-Express_Handlebars#readme"
+}
